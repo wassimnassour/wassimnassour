@@ -1,8 +1,8 @@
-### Hi there 👋
-My name is **Wassim Nassour** ,**Self-taught front-end Developer**, passion it about tech, skilled at writing well-designed tastable, and efficient code using current best practices in web development also   proficient  in translating designs into high-quality code , and write applications  using **React** and **javascript** and **Gatsby**,   
+## Hi there 👋
+My name is **Wassim Nassour** ,**Self-taught front-end Developer**,I'm passionate about , skilled at writing well-designed tastable, and efficient code using current best practices in web development also   proficient  in translating designs into high-quality code , and write applications  using **React** and **javascript** and **Gatsby**,   
 
 
-#### Languages and Tools:
+<h3> Languages and Tools:</h3>
 <p>
 <img align="left" src="https://user-images.githubusercontent.com/60555512/93719250-1d55d380-fb79-11ea-931b-5435034b28c2.png" width="34px" height="34px"/>
  <img  align="left" src="https://user-images.githubusercontent.com/60555512/93865357-1684a900-fcbe-11ea-9847-0c61163de2ca.png"  width="34px" height="34px"/>
@@ -19,7 +19,7 @@ My name is **Wassim Nassour** ,**Self-taught front-end Developer**, passion it a
 <br />
 <br />
 
-<h4>Reach me:</h4>
+<h3>Connect with me:</h3>
 <p>
   <a href="https://www.facebook.com/wassim.nassour/" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height="32px"></a>
 <a href="https://www.instagram.com/wassimnassour/" target="_blank">
@@ -29,4 +29,4 @@ My name is **Wassim Nassour** ,**Self-taught front-end Developer**, passion it a
 <a href="https://twitter.com/WassimNassour" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="32px"></a>
 </p>
 
- ##### 😄  I’m looking for chanse to show my skills
+ #####   I’m looking for chanse to show my skills 😄
