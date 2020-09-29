@@ -29,4 +29,8 @@ My name is **Wassim Nassour** ,**Self-taught front-end Developer**,I'm passionat
 <a href="https://twitter.com/WassimNassour" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="32px"></a>
 </p>
 
- #####   I’m looking for opportunity to show my skills 😄
+
+#### 🌱 I’m currently learning NodeJs and Express.js and MongoDb
+
+
+ ####    I’m looking for opportunity to show my skills 😄
