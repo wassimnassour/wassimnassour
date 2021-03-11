@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is **Wassim Nassour** ,**Self-taught front-end Developer**,I'm passionate about ***Coding*** , skilled at writing well-designed tastable, and efficient code using current best practices in web development also   proficient  in translating designs into high-quality code , and write applications  using **React** and **javascript** and **Gatsby**,   
+My name is **Wassim Nassour** ,**Self-taught React /React Native  Developer**,I'm passionate about ***Coding*** , skilled at writing well-designed tastable, and efficient code using current best practices in web development also   proficient  in translating designs into high-quality code , and write applications  using **React**,**React Native**,**Gatsby**,   
 
 
 <h3> Languages and Tools:</h3>
@@ -30,7 +30,3 @@ My name is **Wassim Nassour** ,**Self-taught front-end Developer**,I'm passionat
 </p>
 
 
-#### 🌱 I’m currently learning NodeJs and Express.js and MongoDb
-
-
- ####    I’m looking for opportunity to show my skills 😄
