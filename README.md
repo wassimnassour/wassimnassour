@@ -21,7 +21,6 @@ My name is **Wassim Nassour** ,**Self-taught React /React Native  Developer**,I'
 
 <h3>Connect with me:</h3>
 <p>
-  <a href="https://www.facebook.com/wassim.nassour/" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height="32px"></a>
 <a href="https://www.instagram.com/wassimnassour/" target="_blank">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="32px">
   </a>
