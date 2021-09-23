@@ -1,9 +1,6 @@
 ## Hi there 👋
-My name is **Wassim Nassour** ,**Self-taught React /React Native  Developer**,I'm passionate about ***Coding*** , skilled at writing well-designed tastable, and efficient code using current best practices in web development also   proficient  in translating designs into high-quality code , and write applications  using **React**,**React Native**,**Gatsby**,   
-
+Hi ,Im **wassim** self-taught developer ,I work now as Frontend engineer at <a href='https://www.obytes.com/'>@Obyets<a> , I’ve been passionate about technology since I was a kid. I’m someone friendly and ambition to learn and grow and gain more experience and knowledge . at daily basis try to be good engineer by writing clean and readable also high-quality code using current best practices in web development ,by using many technologies such us ,React , React Native ,NextJs ,Gatsby .... ,In my downtime, I enjoy reading about tech, or watching some tutorials in addition i write articles in my **<a href='https://wnassour.netlify.app/blog'>Blog</a>** .
 <br />
-<br />
-
 <h3>Connect with me:</h3>
 <p>
 <a href="https://www.instagram.com/wassimnassour/" target="_blank">
