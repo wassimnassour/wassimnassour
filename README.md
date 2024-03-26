@@ -1,10 +1,10 @@
 
 👋 Hello
 
- I am a self-taught Fullstack Engineer using React,  Go, and Node.js, with a strong passion for the world of technology. Currently, I am employed as a Front-End Developer at Obytes, where I have accumulated 3 years of valuable experience. I am dedicated to crafting clean and maintainable code, following the latest industry best practices in web development. Feel free to download my [Resume](https://docs.google.com/document/d/1yPVQfaxMkXqPNVjwvSNAPk3mVgfZ0vvFr2d_qZoyS9c/edit), as I am currently open to new career opportunities
+ I am a self-taught Fullstack Engineer using React,  Go, and Node.js, with a strong passion for the world of technology. Currently, I am employed as a Front-End Developer at Maltem,I am dedicated to crafting clean and maintainable code, following the latest industry best practices in web development. Feel free to download my [Resume](https://docs.google.com/document/d/1yPVQfaxMkXqPNVjwvSNAPk3mVgfZ0vvFr2d_qZoyS9c/edit), as I am currently open to new career opportunities
 
 
-In my downtime, I enjoy reading about tech, or watching some tutorials in addition i write articles in my [blog](https://www.wnassour.com/blog) .
+In my downtime, I enjoy reading about tech, or watching some tutorials in addition I write articles in my [blog](https://www.wnassour.com/blog) .
 
 The best way to contact me for a quick question is on my [Twitter profile.](https://twitter.com/wassimnassour)
 
